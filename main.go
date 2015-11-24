@@ -35,7 +35,7 @@ func main() {
 	c := NewCK101()
 
 	usr, _ := user.Current()
-	c.BaseDir = fmt.Sprintf("%v/Pictures/iloveCK101", usr.HomeDir)
+	c.BaseDir = fmt.Sprintf("%v/Pictures/ck101", usr.HomeDir)
 
 	var workerNum int
 	rootCmd := &cobra.Command{
