@@ -20,7 +20,7 @@ ck101-downloader 卡提諾圖片下載器
 
     ck101-downloader  
 
-所有的圖片會安裝到 `USERS/Pictures/iloveptt` 並且會依照文章的標題分開不同的資料夾．
+所有的圖片會安裝到 `USERS/Pictures/ck101` 並且會依照文章的標題分開不同的資料夾．
 
 如果你是Windows使用者，他會自動存取到你的使用者資料夾的圖片之中．
 
