@@ -1,0 +1,9 @@
+[submodule "vendor/github.com/PuerkitoBio/goquery"]
+	path = vendor/github.com/PuerkitoBio/goquery
+	url = https://github.com/PuerkitoBio/goquery
+[submodule "vendor/github.com/andybalholm/cascadia"]
+	path = vendor/github.com/andybalholm/cascadia
+	url = https://github.com/andybalholm/cascadia
+[submodule "vendor/github.com/kkdai/photomgr"]
+	path = vendor/github.com/kkdai/photomgr
+	url = https://github.com/kkdai/photomgr
