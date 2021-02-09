@@ -1,6 +1,6 @@
 ck101-downloader 卡提諾圖片下載器
 ======================
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kkdai/ck101-downloader/master/LICENSE) [![Build Status](https://travis-ci.org/kkdai/ck101-downloader.svg)](https://travis-ci.org/kkdai/ck101-downloader)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/kkdai/ck101-downloader/master/LICENSE) [![Build Status](https://travis-ci.org/kkdai/ck101-downloader.svg)](https://travis-ci.org/kkdai/ck101-downloader) ![Go](https://github.com/kkdai/ck101-downloader/workflows/Go/badge.svg)
 
 
 `ck101-downloader`是一個小的console app，可以瀏覽[卡提諾](http://ck101.com)的[熱議美女](http://ck101.com/forum-3285-1.html)版面．
