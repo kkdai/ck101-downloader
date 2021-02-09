@@ -98,7 +98,6 @@ The code submitting to PR must be filtered with `gofmt`
 
 如果你喜歡這個App，請考慮以下方式贊助我
 
-- 請花30塊買小弟的[粉絲相簿](https://itunes.apple.com/tw/app/fen-si-xiang-bu/id839324997?l=zh&mt=8) App．
 - 按下一個"github Star"
 
 感謝...
