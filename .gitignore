@@ -1,1 +1,10 @@
 ck101-downloader
+dist/ck101-downloader_v0.0.0-next_Darwin_x86_64.tar.gz
+dist/ck101-downloader_v0.0.0-next_Linux_arm64.tar.gz
+dist/ck101-downloader_v0.0.0-next_Linux_i386.tar.gz
+dist/ck101-downloader_v0.0.0-next_Linux_x86_64.tar.gz
+dist/ck101-downloader_v0.0.0-next_Windows_i386.tar.gz
+dist/ck101-downloader_v0.0.0-next_Windows_x86_64.tar.gz
+dist/ck101-downloader_windows_386/ck101-downloader.exe
+dist/ck101-downloader_windows_amd64/ck101-downloader.exe
+dist/checksums.txt
